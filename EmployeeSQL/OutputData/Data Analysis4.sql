@@ -4,10 +4,10 @@ SELECT
 	E.last_name,
 	E.first_name,
 	D.dept_name
-FROM "Employees" E
-LEFT JOIN "Dept_Emp" DE
+FROM "employees" E
+LEFT JOIN "dept_emp" DE
 ON DE.emp_no=E.emp_no
-LEFT JOIN "Department" D
+LEFT JOIN "department" D
 ON D.dept_no=DE.dept_no
 
 

@@ -3,7 +3,7 @@ SELECT
 	E.first_name,
 	E.last_name,
 	E.sex
-FROM "Employees" E
+FROM "employees" E
 WHERE first_name= 'Hercules'
 AND last_name like 'B%';
 

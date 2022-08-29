@@ -5,6 +5,6 @@ SELECT
 	E.last_name,
 	E.hire_date
 
-FROM "Employees" E
+FROM "employees" E
 WHERE EXTRACT(ISOYEAR FROM E.hire_date)=1986
 	

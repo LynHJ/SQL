@@ -3,7 +3,7 @@
 SELECT
 	E.last_name,
 	count(E.last_name) AS "Counts of Last Name"
-FROM "Employees" E
+FROM "employees" E
 GROUP BY E.last_name
 ORDER BY "Counts of Last Name" DESC
 

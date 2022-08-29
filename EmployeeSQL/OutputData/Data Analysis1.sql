@@ -6,6 +6,6 @@ SELECT
 	E.first_name, 
 	E.sex, 
 	S.salary
-FROM "Employees" E
-LEFT JOIN "Salaries" S
+FROM "employees" E
+LEFT JOIN "salaries" S
 ON E.emp_no=S.emp_no
