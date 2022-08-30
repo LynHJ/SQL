@@ -42,7 +42,7 @@ According to the first pictures above,the salary distribution looks normal.When 
 ## Content:
 Project  
 |  
-|-&nbsp;EmployeeSQL&nbsp;|  
+|-&nbsp;EmployeeSQL&emsp;|  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-&nbsp;InputData:&nbsp;|-departments.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_emp.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_manager.csv  
