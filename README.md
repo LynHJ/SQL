@@ -31,9 +31,9 @@ All that remains of the database of employees from that period are six CSV files
 ### Advanced Data Analysis
 
 1. Create a histogram to visualize the most common salary ranges for employees.  
-https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/ADA1.png
+![alt text](https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/ADA1.png)
 2. Create a bar chart of average salary by title.  
-https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/ADA2.png
+![alt text](https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/ADA2.png)
 #### Summary for Advanced Data Analysis
 
 
@@ -43,26 +43,26 @@ https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926
 Project  
 |  
 |-EmployeeSQL-|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-InputData:|-departments.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_emp.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_manager.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-employees.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-salaries.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-titles.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-OutputData:|-Table Schemata.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis1.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis2.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis3.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis4.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis5.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis6.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis7.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis8.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-ERD.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Advanced Analysis.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-config.py  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-InputData:|-departments.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_emp.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_manager.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-employees.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-salaries.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-titles.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-OutputData:|-Table Schemata.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis1.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis2.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis3.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis4.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis5.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis6.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis7.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis8.sql  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-ERD.png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Advanced Analysis.ipynb  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-config.py  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb  
 |-README.md  
 
 ## Installation
