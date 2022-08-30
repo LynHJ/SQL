@@ -36,14 +36,14 @@ All that remains of the database of employees from that period are six CSV files
 ![alt text](https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/ADA2.png)
 #### Summary for Advanced Data Analysis
 
-
+According to the first pictures above,the salary distribution looks normal.When salary increases, the number of who earn that decreases.However, when I use titles to break down the distribution of salary, I found out that those who have high techniche skills or management skills earn less than normal staff. Therefore I assume that this dataset is spurious.
 
 
 ## Content:
 Project  
 |  
-|-EmployeeSQL-|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-InputData:|-departments.csv  
+|-EmployeeSQL-&emsp;|  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-InputData:&emsp;|-departments.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_emp.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_manager.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-employees.csv  
