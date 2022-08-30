@@ -43,7 +43,7 @@ All that remains of the database of employees from that period are six CSV files
 Project  
 |
 |-EmployeeSQL-|  
-|             |-InputData:|-departments.csv  
+|&emsp&emsp&emsp|-InputData:|-departments.csv  
 |             |           |-dept_emp.csv  
 |             |           |-dept_manager.csv  
 |             |           |-employees.csv  
