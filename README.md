@@ -65,7 +65,8 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Advanced Analysis.ipynb  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-config.py  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb  
-|-README.md  
+|-README.md 
+|-.gitignore 
 
 ## Installation
 1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7.7 
