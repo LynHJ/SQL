@@ -66,7 +66,7 @@ Project
 |-README.md  
 
 ## Installation
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.9.12  
+1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7.7 
 2.psycopg2 2.9.3  
 3.sqlalchemy  
 4.configparse  
