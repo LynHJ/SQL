@@ -12,4 +12,3 @@ LEFT JOIN "dept_manager" DM
 On D.dept_no=DM.dept_no
 LEFT JOIN "employees" E
 On DM.emp_no=E.emp_no
-

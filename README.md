@@ -66,14 +66,15 @@ Project
 |-README.md  
 
 ## Installation
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7  
-2.pip install notebook  
-3.conda install matplotlib  
-4.pgAdmin and Postgres v.14  
-
+1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.9.12  
+2.psycopg2 2.9.3  
+3.sqlalchemy  
+4.configparse  
+5.conda install matplotlib   
+6.pgAdmin and Postgres v.14  
 ## Prerequisites
 1.Using config template to create config.ini to run through whole project.  
-2.Using pgAdmin to import 6 csv.files to Postgres v.14.   
+2.Using pgAdmin to import 6 csv.files to Postgres v.14.  
 
 
 
