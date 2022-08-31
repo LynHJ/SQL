@@ -31,9 +31,9 @@ All that remains of the database of employees from that period are six CSV files
 ### Advanced Data Analysis
 
 1. Create a histogram to visualize the most common salary ranges for employees.  
-![alt text](https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/OutputData/ADA1.png)
+![alt text](hhttps://github.com/LynHJ/SQL/blob/45526bce8feaa9ec61d5d74de4df55963cf83cd3/EmployeeSQL/OutputData/ADA1.png)  
 2. Create a bar chart of average salary by title.  
-![alt text](https://github.com/LynHJ/sql-challenge/blob/698b27965215ac05e6916fe4fefee45ff926d824/OutputData/ADA2.png)
+![alt text](https://github.com/LynHJ/SQL/blob/45526bce8feaa9ec61d5d74de4df55963cf83cd3/EmployeeSQL/OutputData/ADA2.png)  
 #### Summary for Advanced Data Analysis
 
 According to the first pictures above,the salary distribution looks normal.When salary increases, the number of who earn that decreases.However, when I use titles to break down the distribution of salary, I found out that those who have high techniche skills or management skills earn less than normal staff. Therefore I assume that this dataset is spurious.
