@@ -1,8 +1,8 @@
-# SQL-Challenge
+# SQL-Building Up an ERD & DataBase Research
 
 
 ## Background
-This is a scenario about it's been two weeks since I was hired as a new data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.  
+This is a scenario about it's been two weeks since I was hired as a new data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. 
 
 
 ### Source
