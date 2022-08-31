@@ -31,7 +31,7 @@ All that remains of the database of employees from that period are six CSV files
 ### Advanced Data Analysis
 
 1. Create a histogram to visualize the most common salary ranges for employees.  
-![alt text](hhttps://github.com/LynHJ/SQL/blob/45526bce8feaa9ec61d5d74de4df55963cf83cd3/EmployeeSQL/OutputData/ADA1.png)  
+![alt text](https://github.com/LynHJ/SQL/blob/45526bce8feaa9ec61d5d74de4df55963cf83cd3/EmployeeSQL/OutputData/ADA1.png)  
 2. Create a bar chart of average salary by title.  
 ![alt text](https://github.com/LynHJ/SQL/blob/45526bce8feaa9ec61d5d74de4df55963cf83cd3/EmployeeSQL/OutputData/ADA2.png)  
 #### Summary for Advanced Data Analysis
