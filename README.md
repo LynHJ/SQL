@@ -66,8 +66,8 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-config.py  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-requirements.txt  
-|-README.md 
-|-.gitignore 
+|-README.md     
+|-.gitignore     
 
 ## Installation
 
