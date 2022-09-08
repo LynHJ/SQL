@@ -40,34 +40,37 @@ According to the first pictures above,the salary distribution looks normal.When 
 
 
 ## Content:
+```
 Project  
-|  
-|-&nbsp;EmployeeSQL&emsp;|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-&nbsp;InputData:&nbsp;|-departments.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_emp.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-dept_manager.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-employees.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-salaries.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-titles.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-OutputData:|-Table Schemata.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis1.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis2.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis3.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis4.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis5.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis6.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis7.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Data Analysis8.sql  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-ERD.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-ADA1.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-ADA2.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Advanced Analysis.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-config.py  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-requirements.txt  
-|-README.md     
-|-.gitignore     
+├── EmployeeSQL
+│   ├── Advanced Analysis.ipynb
+│   ├── InputData
+│   │   ├── departments.csv
+│   │   ├── dept_emp.csv
+│   │   ├── dept_manager.csv
+│   │   ├── employees.csv
+│   │   ├── salaries.csv
+│   │   └── titles.csv
+│   ├── OutputData
+│   │   ├── ADA1.png
+│   │   ├── ADA2.png
+│   │   ├── Data Analysis1.sql
+│   │   ├── Data Analysis2.sql
+│   │   ├── Data Analysis3.sql
+│   │   ├── Data Analysis4.sql
+│   │   ├── Data Analysis5.sql
+│   │   ├── Data Analysis6.sql
+│   │   ├── Data Analysis7.sql
+│   │   ├── Data Analysis8.sql
+│   │   ├── ERD.png
+│   │   └── Table Schemata.sql
+│   ├── config.py
+│   ├── configtemplate.ipynb
+│   └── requirements.txt
+├── README.md
+
+```
+   
 
 ## Installation
 
