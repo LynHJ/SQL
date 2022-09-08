@@ -64,18 +64,14 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-ADA2.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Advanced Analysis.ipynb  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-config.py  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-configtemplate.ipynb
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-requirements.txt  
 |-README.md 
 |-.gitignore 
 
 ## Installation
 
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7.7 
-2.psycopg2 2.9.3  
-3.sqlalchemy  
-4.configparse  
-5.conda install matplotlib   
-6.pgAdmin and Postgres v.14  
+pip install -r requirements.txt
 
 ## Prerequisites
 
