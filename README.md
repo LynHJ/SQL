@@ -5,12 +5,12 @@
 This is a scenario about it's been two weeks since I was hired as a new data engineer at Pewlett Hackard. My first major task is a research project on employees of the corporation from the 1980s and 1990s. 
 
 
-### Source
+## Source
 
 All that remains of the database of employees from that period are six CSV files.  
 
 
-### Data Analysis
+## Data Analysis
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.  
  
@@ -28,7 +28,7 @@ All that remains of the database of employees from that period are six CSV files
 
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.  
 
-### Advanced Data Analysis
+## Advanced Data Analysis
 
 1. Create a histogram to visualize the most common salary ranges for employees.  
 ![alt text](https://github.com/LynHJ/SQL/blob/45526bce8feaa9ec61d5d74de4df55963cf83cd3/EmployeeSQL/OutputData/ADA1.png)  
