@@ -14,6 +14,8 @@ All that remains of the database of employees from that period are six CSV files
 ## Data Analysis
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.  
+
+<a href='https://github.com/LynHJ/SQL-Database/blob/396293c9dd0652995c46ec100865d71d29c8079d/EmployeeSQL/OutputData/Data%20Analysis1.sql'>Query1</a>
  
 2. List first name, last name, and hire date for employees who were hired in 1986.  
 
