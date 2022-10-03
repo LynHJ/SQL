@@ -81,11 +81,11 @@ pip install -r requirements.txt
 
 ## Prerequisites
 
-1. 
+1. Setup permission for accessing the database  
 a. Open SQLkeysTemp.py and input your postgresql password    
 b. Open .gitignore and input SQLkeysTemp.py to secure your password   
 c. Open ETL_Script.ipynb change 'from SQLkeys' to 'from SQLkeysTemp'
-   
+
 2. Using pgAdmin to import 6 csv.files to Postgres v.14.    
 
 
