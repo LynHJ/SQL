@@ -3,8 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-config.ini
-ConfigCoding.ipynb
+SQLkeys.py
 # C extensions
 *.so
 
