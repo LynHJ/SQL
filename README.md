@@ -1,4 +1,4 @@
-# SQL-Building Up an ERD & DataBase Research
+# Building Up an ERD & DataBase Research
 
 
 ## Background
