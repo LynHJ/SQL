@@ -85,7 +85,7 @@ Project
 │   │   └── Table Schemata.sql
 │   ├── SQLkeys.py
 │   ├── SQLkeysTemp.py
-│   └── requirements.txt
+├── requirements.txt
 ├── README.md
 
 ```
