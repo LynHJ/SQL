@@ -3,6 +3,6 @@
 SQLAlchemy == 1.4.40
 config == 0.5.1
 matplotlib == 3.2.2
-numpy == 1.18.1
+numpy == 1.21.6
 pandas == 1.0.3
 psycopg2_binary == 2.9.3
